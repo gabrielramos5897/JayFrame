@@ -1,0 +1,21 @@
+Cs site info: 
+
+Colors:
+
+192231 dark blue
+
+52658f light blue
+
+76323f oxblood
+
+96858f dusty
+
+About Me: 
+
+Hi, I’m Courtland Woodall. I recently moved from Dallas Texas to Salt Lake City Utah to pursue my dream of becoming a front end web developer. I grew up experimenting with computers. I started building computers when I was 14 years old, then began learning as many programs as I could. I’ve learned so much including Photoshop, Illustrator, Solid Works, WordPress, and many more. Recently I began learning how to build websites and so far I’ve learned HTML5, CSS3, and some Javascript and Jquery. I may not be an expert with them, but I continue to learn more every day. Outside of development I enjoy rock climbing, hiking, reading, and drawing.
+
+I’m Courtland Woodall. I’m a freelance designer and developer. I specialize in creating and maintaining websites, but I can also optimize your website so it is ranked higher on search engines, design logos, and help you gain an online presence. Aside from design and development, I am an avid reader and creator. I love all art and I specialize in creating portfolio or shopping sites for other artists. I firmly believe that every experience a customer has with your brand, (from business cards to websites) should reflect your work and really capture your unique art style.he
+
+
+
+
